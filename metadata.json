@@ -1,0 +1,6 @@
+{
+  "name": "AutoPulse",
+  "description": "Smart Car Rental and Real-Time Fleet Telemetry Monitoring System with live GPS tracking, vehicle diagnostics, remote IoT controls, and trip analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
